@@ -5,8 +5,8 @@ This is a simple Vagrant (Virtual Machine) for provisioning a Postgresql 9.3.6 D
 
 To start, ensure that you have the following installed:
 
-* ["Vagrant"](http://www.vagrantup.com)
-* ["VirtualBox"](http://www.virtualbox.com)
+* [Vagrant](http://www.vagrantup.com)
+* [VirtualBox](http://www.virtualbox.com)
 
 Then you can simply issue the following command on your terminal:
 

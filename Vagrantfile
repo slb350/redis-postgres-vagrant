@@ -25,10 +25,9 @@ Vagrant.configure("2") do |config|
          "method" => "md5" }]
                   },
     "redisio" => {
-      'servers' => [
-      {'port' => '6400'},
-      {'port' => '6401'}
-                  ]
+      "servers" => [
+      {"port" => "6400"},
+      {"port" => "6401"}]
                 }
                 }
   end
