@@ -1,4 +1,4 @@
-Flowers
+Redis and Postgresql
 ===========
 
 This is a simple Vagrant (Virtual Machine) for provisioning a Postgresql 9.3.6 Database and a pair of Redis 2.8.17 Datastores. 
@@ -14,7 +14,7 @@ Then you can simply issue the following command on your terminal:
 
 The Vagrant maps the services as if they were on your local machine. So you can access or point to the Vagrant as if it was localhost.
 
-* Postgres via psql (password is password)
+* psql (password is password)
 ` psql -h localhost -p 5432 -U postgres --password `
 
 * Postgres for Rails / Database.yml
