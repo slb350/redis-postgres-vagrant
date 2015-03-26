@@ -1,7 +1,7 @@
 Flowers
 ===========
 
-This is a simple Vagrant (Virtual Machine) for provisioning a Postgresql 9.3.6 Database and Redis 2.8.17 Datastore. 
+This is a simple Vagrant (Virtual Machine) for provisioning a Postgresql 9.3.6 Database and a pair of Redis 2.8.17 Datastores. 
 
 To start, ensure that you have the following installed:
 
