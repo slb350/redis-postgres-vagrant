@@ -34,6 +34,8 @@ development:
 ` redis-cli -p 6400 `
 ` redis-cli -p 6401 `
 
+[Examples!](http://i.imgur.com/pZyA8QZ.gifv)
+
 Redis is available on ports 6400 and 6401.
 Postgres is available on port 5432.
 
