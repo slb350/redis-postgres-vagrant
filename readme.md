@@ -17,6 +17,19 @@ The Vagrant maps the services as if they were on your local machine. So you can 
 * Postgres (password is password)
 ` psql -h localhost -p 5432 -U postgres --password `
 
+* Postgres for Rails / Database.yml
+
+```
+development:
+  adapter: pg
+  encoding: unicode
+  database: development
+  username: postgres
+  password: password
+  host: localhost
+  port: 5432
+```
+
 * Redis
 ` redis-cli -p 6400 `
 ` redis-cli -p 6401 `
